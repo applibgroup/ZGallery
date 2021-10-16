@@ -27,7 +27,7 @@ This library has been inspired by [mzelzoghbi/ZGallery](https://github.com/mzelz
 ```
 3. For using ZGallery module from a remote repository in separate application, add the below dependencies in entry/build.gradle file.
 ```
-implementation 'dev.applibgroup:ZGallery:1.0.0'
+implementation 'dev.applibgroup:zgallery:1.0.0'
 ```
 
 ## Usage
